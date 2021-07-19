@@ -1,0 +1,1 @@
+(()=>{"use strict";window.addEventListener("load",(async()=>{document.getElementById("header").innerHtml='\n  <div class="Header__main">\n  <div class="Header__logo">\n    <h1>\n      <a href="/">100tifi.co</a>\n    </h1>\n  </div>\n  <div class="Header__nav">\n    <a href="#/about">\n      About\n    </a>\n  </div>\n  </div>\n  '}))})();
